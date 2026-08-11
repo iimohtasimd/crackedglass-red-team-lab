@@ -1,0 +1,10 @@
+123456
+1234567
+12345678
+123456789
+1234567890
+11111111
+00000000
+1111
+0000
+1234 john --format=PDF --wordlist=simple_numbers.txt databreach_hash.txt

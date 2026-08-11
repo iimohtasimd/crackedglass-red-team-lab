@@ -1,0 +1,43 @@
+Employee Reconnaissance Data (hr_directory_intel.csv)
+Intelligence Note: This data was scraped from internal bios and public social media profiles.
+Use this to construct rules and custom wordlists (e.g., using tools like cupp or cewl).
+
+ Employee   Full Name       DOB           Mobile Number   Email                 City          Known Interests /
+ ID                                                                                           Notes
+
+
+
+
+ EMP-001    System          01-Jan-1980   555-0100-000    admin@corp.local      Server Room   Laziness, default
+            Administrator                                                                     configurations,
+                                                                                              simple numbers.
+
+
+
+
+ EMP-042    Mohan Sharma    12-May-2004   9876543210      mohan@corp.local      New Delhi     Born in 2004, avid
+                                                                                              PC gamer.
+
+
+
+
+ EMP-088    Kriti Sinha     22-Aug-1998   9455345519      kriti1998@gmail.com   Mumbai        Loves her pet dog
+                                                                                              named "Bruno",
+                                                                                              photography.
+
+
+
+
+ EMP-091    Nitesh Kumar    14-Nov-1992   9988776655      nitesh@corp.local     Bangalore     Cybersecurity
+                                                                                              enthusiast,
+                                                                                              cryptography, uses
+                                                                                              a password
+                                                                                              manager.
+
+
+
+
+ EMP-105    Roy D'Souza     03-Jul-1990   9122334455      roy@corp.local        Goa           Die-hard fan of
+                                                                                              Arsenal FC, plays
+                                                                                              acoustic guitar.
+

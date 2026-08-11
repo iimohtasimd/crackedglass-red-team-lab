@@ -1,0 +1,19 @@
+admin
+admin123
+admin1234
+password
+password1
+password123
+123456
+12345678
+1234567890
+qwerty
+letmein
+changeme
+default
+root
+administrator
+admin@123
+admin@1234
+Welcome123
+P@ssw0rd john --format=PDF --wordlist=lazy_admin.txt databreach_hash.txt

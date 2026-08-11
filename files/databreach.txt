@@ -1,0 +1,7 @@
+[!] ATTENTION: Partial password recovery from previous breach:
+-----------------------------------------------------------
+Pattern Found for Roy:                Roy@*****05
+Pattern Found for Kriti:           kiritiloves*****@********19
+-----------------------------------------------------------
+Note: Cross-reference with the Employee Recon Data to fill in the stars (*).
+
